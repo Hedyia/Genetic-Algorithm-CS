@@ -1,0 +1,7 @@
+C:\Users\Muhammed Hedyia\source\repos\Generic Genetic Algorithm Implemented in CS\Generic Genetic Algorithm Implemented in CS\bin\Debug\Generic Genetic Algorithm Implemented in CS.exe.config
+C:\Users\Muhammed Hedyia\source\repos\Generic Genetic Algorithm Implemented in CS\Generic Genetic Algorithm Implemented in CS\bin\Debug\Generic Genetic Algorithm Implemented in CS.exe
+C:\Users\Muhammed Hedyia\source\repos\Generic Genetic Algorithm Implemented in CS\Generic Genetic Algorithm Implemented in CS\bin\Debug\Generic Genetic Algorithm Implemented in CS.pdb
+C:\Users\Muhammed Hedyia\source\repos\Generic Genetic Algorithm Implemented in CS\Generic Genetic Algorithm Implemented in CS\obj\Debug\Generic Genetic Algorithm Implemented in CS.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Hedyia\source\repos\Generic Genetic Algorithm Implemented in CS\Generic Genetic Algorithm Implemented in CS\obj\Debug\Generic Genetic Algorithm Implemented in CS.exe
+C:\Users\Muhammed Hedyia\source\repos\Generic Genetic Algorithm Implemented in CS\Generic Genetic Algorithm Implemented in CS\obj\Debug\Generic Genetic Algorithm Implemented in CS.pdb
+C:\Users\Muhammed Hedyia\source\repos\Generic Genetic Algorithm Implemented in CS\Generic Genetic Algorithm Implemented in CS\obj\Debug\Generic Genetic Algorithm Implemented in CS.csprojResolveAssemblyReference.cache
